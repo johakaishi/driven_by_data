@@ -33,7 +33,7 @@ Notebooks can be found below:
 ---
 “What is my car worth?”<br><br>
 
-There are many factors (or “features”…) that affect the value of a car. This project aims to dive deep into this very question, and to use a data-driven approach to accurately predict the listed price of cars.<br><br>
+There are many factors (or “features”…) that affect the value of a car. This project aims to dive deep (or should I say "drive" deep?) into this very question, and to use a data-driven approach to accurately predict the listed price of cars.<br><br>
 
 Autotrader is one of the largest automotive classified advertising sites in the UK, listing both new and second hand cars sold by private sellers and trade dealers. I extracted the data for this project by scraping through the Autotrader website, resulting in approximately 15,000 unique (non-duplicated) observations, on which to perform exploratory analysis and predict prices using regression models.
 
