@@ -414,7 +414,7 @@ After fitting various ensemble models, the Extra Trees Regressor resulted in the
 
 - Further feature engineering such as implementing polynomial features may assist to improve model accuracy.
     - This is suggested from the trends found within the initial EDA.
-    - Also implementing cross features in place of two features (such as 'BHP per litre', to replace 'horsepower' and 'engine_size' may simplify the model.
+    - Also implementing cross features in place of two features (such as 'BHP per litre', to replace 'horsepower' and 'engine_size') may simplify the model.
     
     
     
