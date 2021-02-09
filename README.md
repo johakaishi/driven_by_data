@@ -5,7 +5,6 @@
 # Driven by Data
 #### Joh Akaishi
 
-
 This repository contains notebooks for my machine learning project, “Driven by Data”.<br>
 Notebooks can be found below:
 
@@ -314,9 +313,9 @@ pipe.fit(X_train, y_train)
 
 ### Ridge Regression
 
-The (5-fold) cross validated mean R$^2$ score (hereafter "CV mean") was used to assess model performance and generalisability to new, unknown data.
+The (5-fold) cross validated mean <img src="https://render.githubusercontent.com/render/math?math=R^{2}"> score (hereafter "CV mean") was used to assess model performance and generalisability to new, unknown data.
 
-Ridge Regression ($\alpha$ = 0.3594) resulted in the highest initial CV mean of 0.9219
+Ridge Regression (<img src="https://render.githubusercontent.com/render/math?math=\alpha"> = 0.3594) resulted in the highest initial CV mean of 0.9219
 
 <img src="/readme_assets/19_plot_ridge_actual_predicted.png">
 
